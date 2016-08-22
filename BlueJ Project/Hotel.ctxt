@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=name\ rooms
+comment0.target=Hotel(java.lang.String,\ java.util.ArrayList)
+comment0.text=\r\n\ Constructor\ for\ Hotel\ with\ name\ and\ rooms\ array\r\n\ \r\n\ @param\ name\ \ hotels\ name\r\n\ @param\ rooms\ rooms\ array\r\n
+comment1.params=roomNum
+comment1.target=int\ getRoomPosition(int)
+comment1.text=\r\n\ Returns\ the\ room\ array\ position\r\n\ \r\n\ @param\ \ roomNum\ \ room\ number\r\n\ @return\ \ \ \ \ \ \ \ \ \ room\ array\ position\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment2.params=roomPos\ customerName\ customerNumGuests\ customerLengthOfStay
+comment2.target=void\ bookRoom(int,\ java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Adds\ a\ new\ room\ to\ the\ array\ using\ roomNum,\ customerName,\ and\ customerNumGuest\ parameters.\r\n\ Checks\ array\ position\ and\ adds\ room\ or\ fails\ and\ handles\ an\ error.\ \r\n\ \r\n\ @param\ roomPos\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ room\ position\ in\ array\r\n\ @param\ customerName\ \ \ \ \ \ \ \ \ \ customer\ name\r\n\ @param\ customerNumGuest\ \ \ \ \ \ number\ of\ guests\r\n\ @param\ customerLengthOfStay\ \ length\ of\ the\ customer\ stay\r\n
+comment3.params=roomPos
+comment3.target=void\ cancelBooking(int)
+comment3.text=\r\n\ Removes\ a\ customer\ from\ the\ room\ and\ cancels\ the\ booking\r\n\ \r\n\ @param\ roomPos\ \ \ \ \ \ \ \ \ \ \ room\ number\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getRooms()
+comment4.text=\r\n\ Returns\ the\ hotels\ rooms\r\n\ \r\n\ @return\ list\ of\ hotel\ rooms\r\n
+comment5.params=
+comment5.target=int\ getAvailableRooms()
+comment5.text=\r\n\ Returns\ the\ number\ of\ available\ rooms\r\n\ \r\n\ @return\ the\ amount\ of\ available\ rooms\r\n
+comment6.params=roomIndex
+comment6.target=BaseRoom\ getRoom(int)
+comment6.text=\r\n\ Returns\ the\ room\ at\ a\ given\ index\r\n\ \r\n\ @return\ a\ room\ at\ a\ given\ index\r\n
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=title\ roomPos\ isBooked\ parent
+comment0.target=BookButton(java.lang.String,\ int,\ boolean,\ MainMenu)
+comment0.text=\r\n\ Constructor\ for\ BookButton\ class.\r\n\ \r\n\ @param\ title\ button\ text\r\n\ @param\ roomPos\ position\ of\ the\ room\ associated\ to\ the\ button\ in\ the\ hotel's\ database.\r\n\ @param\ isBooked\ true\ if\ the\ room\ associated\ to\ the\ button\ is\ booked.\r\n\ @param\ parent\ a\ reference\ to\ the\ main\ menu\r\n
+comment1.params=
+comment1.target=boolean\ getBooked()
+comment1.text=\r\n\ Returns\ whether\ or\ not\ the\ room\ associated\ to\ the\ button\ is\ booked.\r\n\ \r\n\ @return\ boolean\ value\ that\ is\ true\ if\ the\ room\ associated\ to\ the\ button\ is\ booked.\r\n
+comment2.params=
+comment2.target=int\ getRoomPos()
+comment2.text=\r\n\ Returns\ position\ of\ the\ room\ associated\ to\ the\ button\ in\ the\ hotel's\ database.\r\n\ \r\n\ @return\ position\ of\ the\ room\ associated\ to\ the\ button\ in\ the\ hotel's\ database.\r\n
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ actionperformed\ function\r\n\ \r\n
+numComments=4

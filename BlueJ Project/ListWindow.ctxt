@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=title\ parentFrame\ frameID
+comment0.target=ListWindow(java.lang.String,\ MainMenu,\ int)
+comment0.text=\r\n\ Constructor\ for\ Base\ Window\ class.\r\n\ \r\n\ @param\ title\ title\ of\ window\r\n
+comment1.params=title\ parentFrame\ frameID\ searchArgs
+comment1.target=ListWindow(java.lang.String,\ MainMenu,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ ListWindow\ class.\r\n\ \r\n\ @param\ windowTitle\ title\ of\ window\r\n\ @param\ parentFrame\ a\ reference\ to\ the\ main\ menu\r\n\ @param\ frameID\ ID\ of\ the\ frame,\ used\ by\ the\ main\ menu\ to\ track\ subwindows.\r\n\ @param\ searchArgs\ Search\ Arguments\ used\ in\ case\ the\ instantiated\ window\ is\ a\ "search\ results"\ window.\r\n
+comment2.params=frameID\ searchArgs
+comment2.target=void\ makeFrame(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ updateGUI()
+comment4.params=ae
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ actionPerformed\ function.\r\n\ \r\n
+comment5.params=
+comment5.target=void\ refreshInfo()
+comment5.text=\r\n\ Refreshes\ the\ window's\ content\ to\ show\ the\ changes\ to\ the\ database\r\n\ \r\n
+numComments=6

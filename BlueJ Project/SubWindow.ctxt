@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=windowTitle\ parentFrame\ frameID
+comment0.target=SubWindow(java.lang.String,\ MainMenu,\ int)
+comment0.text=\r\n\ Constructor\ for\ Sub-Window\ class.\r\n\ \r\n\ @param\ windowTitle\ title\ of\ window\r\n\ @param\ parentFrame\ a\ reference\ to\ the\ main\ menu\r\n\ @param\ frameID\ ID\ of\ the\ frame,\ used\ by\ the\ main\ menu\ to\ track\ subwindows.\r\n
+comment1.params=windowEvent
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=
+comment2.target=void\ refreshInfo()
+comment3.params=
+comment3.target=void\ callParentRefresh()
+comment4.params=
+comment4.target=void\ closeSelf()
+comment5.params=frameID\ searchArgs
+comment5.target=javax.swing.JScrollPane\ requestList(int,\ java.lang.String)
+numComments=6

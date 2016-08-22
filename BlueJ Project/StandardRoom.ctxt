@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StandardRoom()
+comment0.text=\r\n\ Constructor\ for\ default\ StandardRoom\ class\r\n
+comment1.params=number\ enSuite\ customer
+comment1.target=StandardRoom(int,\ boolean,\ Customer)
+comment1.text=\r\n\ Constructor\ for\ StandardRoom\ class\ with\ roomNumber,\ enSuite\ and\ customer\ arguments\ called\r\n\ from\ abstract\ BaseRoom\ and\ maxOccupancy\ argument\ \r\n\ \r\n\ @param\ number\ \ \ \ \ \ \ \ hotel\ room\ number\r\n\ @param\ enSuite\ \ \ \ \ \ \ boolean\ for\ enSuite\r\n\ @param\ customer\ \ \ \ \ \ customer\r\n
+comment2.params=
+comment2.target=int\ GetMaxOccupancy()
+comment2.text=\r\n\ Returns\ the\ maximum\ occupancy\r\n\ \r\n\ @return\ \ maximum\ occupancy\r\n
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment3.text=\r\n\ Returns\ the\ room\ type\r\n\ \r\n\ @return\ \ room\ type\r\n
+comment4.params=
+comment4.target=java.lang.String\ getRoomDetails()
+comment4.text=\r\n\ Returns\ the\ room\ details\r\n\ \r\n\ @return\ \ room\ details\ as\ String\r\n
+numComments=5

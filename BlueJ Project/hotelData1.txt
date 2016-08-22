@@ -1,0 +1,12 @@
+Family 101 true false 0 0 No Person
+Standard 102 false false 0 0 No Person
+Family 103 true false 0 0 No Person
+Family 104 true false 0 0 No Person
+Family 201 true false 0 0 No Person
+Standard 202 false false 0 0 No Person
+Family 203 true false 0 0 No Person
+Family 204 true false 0 0 No Person
+Family 301 true false 0 0 No Person
+Standard 302 false false 0 0 No Person
+Family 303 true false 0 0 No Person
+Family 304 true false 0 0 No Person

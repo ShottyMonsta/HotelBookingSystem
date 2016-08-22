@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ openStream()
+comment1.params=
+comment1.target=void\ makeLink()
+comment2.params=
+comment2.target=java.util.ArrayList\ readFromFile()
+comment2.text=\r\n\ Opens\ connection\ to\ the\ hotel\ data\ file\ and\ populates\ a\ list\ with\ the\ data\r\n\ Returns\ an\ array\ list\ of\ strings\ for\ the\ hotel\ information.\ \r\n\ \r\n\ @return\ \ hotelData\ \ \ hotel\ information\ from\ file\r\n\ @throws\ read\ error\r\n
+comment3.params=rooms
+comment3.target=void\ writeToFile(java.util.ArrayList)
+comment3.text=\r\n\ Writes\ hotel\ data\ to\ output\ text\ file.\r\n\ \r\n\ @throws\ write\ error\r\n
+comment4.params=
+comment4.target=void\ closeStream()
+comment5.params=
+comment5.target=void\ closeLink()
+numComments=6

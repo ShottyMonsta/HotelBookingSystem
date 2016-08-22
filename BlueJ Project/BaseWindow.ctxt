@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=BaseWindow(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ Base\ Window\ class.\r\n\ \r\n\ @param\ title\ title\ of\ window\r\n
+numComments=1

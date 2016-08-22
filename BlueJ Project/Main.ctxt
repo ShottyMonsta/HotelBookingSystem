@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Initialises\ text\ handling\ class\ to\ read\ information\ from\ the\ hotel\ rooms\ file.\r\n\ Reads\ information\ from\ file\ and\ breaks\ information\ into\ usable\ strings.\ \r\n\ Parses\ room\ type\ string\ information\ to\ add\ a\ new\ room.\r\n\ Generates\ a\ new\ GUI\ instance\ and\ hotel\ class.\r\n\ \r\n\ @param\ command\ line\ arguments\r\n
+comment1.params=
+comment1.target=void\ quit()
+comment1.text=\r\n\ Writes\ the\ updated\ hotel\ data\ to\ a\ text\ file\ then\ quits\ the\ program\r\n
+comment2.params=
+comment2.target=void\ getHotelData()
+comment2.text=\r\n\ Gets\ the\ hotel\ data\ from\ the\ text\ file\r\n\ Catches\ a\ file\ not\ found\ exception\ and\ display\ an\ error\ then\ exits\ the\ program\r\n
+comment3.params=
+comment3.target=void\ populateHotel()
+comment3.text=\r\n\ Reads\ information\ from\ file\ and\ breaks\ information\ into\ usable\ strings.\ \r\n\ Parses\ room\ type\ string\ information\ to\ add\ a\ new\ room.\r\n
+comment4.params=
+comment4.target=void\ initHotel()
+comment4.text=\r\n\ Creates\ a\ new\ hotel\r\n
+comment5.params=
+comment5.target=void\ initGUI()
+comment5.text=\r\n\ Initializes\ the\ GUI\r\n
+comment6.params=
+comment6.target=Hotel\ getHotel()
+numComments=7

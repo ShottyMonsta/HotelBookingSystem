@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name\ numGuests\ lengthOfStay
+comment0.target=Customer(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ Customer\ class\ with\ name\ and\ number\ of\ guest\ parameters.\r\n\ \r\n\ @param\ name\ \ \ \ \ \ \ \ \ customer\ name\r\n\ @param\ numGuests\ \ \ \ number\ of\ guests\r\n\ @param\ lenghtOfStay\ the\ length\ of\ the\ customers\ stay\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Returns\ the\ customer\ name\r\n\ \r\n\ @return\ \ customer\ name\r\n
+comment2.params=
+comment2.target=int\ getNumGuests()
+comment2.text=\r\n\ Returns\ the\ number\ of\ guests\r\n\ \r\n\ @return\ \ number\ of\ guests\r\n
+comment3.params=
+comment3.target=int\ getLengthOfStay()
+comment3.text=\r\n\ Returns\ the\ length\ of\ stay\r\n\ \r\n\ @return\ \ length\ of\ stay\r\n
+comment4.params=
+comment4.target=java.lang.String\ printData()
+comment4.text=\r\n\ Returns\ the\ customer\ data\r\n\ \r\n\ @return\ customer\ data\r\n
+numComments=5
